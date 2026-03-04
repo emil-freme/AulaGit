@@ -5,3 +5,6 @@ Dia: 04/03/2026
 Aula Introdutoria ao GIT
 
 Muitas pessoas da comp e afins
+
+git add, git commit
+git status git diff
